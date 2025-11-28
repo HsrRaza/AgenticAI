@@ -1,0 +1,17 @@
+{
+  "name": "mini-chatbot",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "cli-agent.js",
+  "scripts": {
+    "start": "cli-agent.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "openai": "^6.9.1"
+  }
+}
